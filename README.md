@@ -1,3 +1,8 @@
+
+Macos Latest (M1 macs/newer macs): https://github.com/supersketchy/Truss-101/actions/runs/14626996329/artifacts/2997018611
+Macos 13 (x86 based macs/non m1 macs): https://github.com/supersketchy/Truss-101/actions/runs/14626996329/artifacts/2997023754
+Windows x86: https://github.com/supersketchy/Truss-101/actions/runs/14626996329/artifacts/2997025976
+Linux x86: https://github.com/supersketchy/Truss-101/actions/runs/14626996329/artifacts/2997020553
 <p align="center">
   <img src="Tutorial/logo.png" width="125" height="125"
 </p>
